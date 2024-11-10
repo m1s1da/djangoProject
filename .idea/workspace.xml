@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="210e586e-1fe7-4750-aeb7-a22dc2d36e25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/migrations/0002_alter_product_category_alter_productcategory_parent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="210e586e-1fe7-4750-aeb7-a22dc2d36e25" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731241388232</updated>
-      <workItem from="1731241403351" duration="6972000" />
+      <workItem from="1731241403351" duration="7305000" />
     </task>
     <servers />
   </component>
