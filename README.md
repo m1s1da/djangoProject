@@ -1,4 +1,4 @@
-По пути **/categories_and_products/** возвращается следующий **json**:
+По пути **/categories_and_products/** возвращается следующий [json](out.json):
 ```json
 {
   "categories": [
